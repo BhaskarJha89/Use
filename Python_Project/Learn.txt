@@ -1,0 +1,22 @@
+Fundamentals
+---------------
+SQL
+Python
+Spark
+DataStructure and Algorithms
+Terraform
+BigData
+
+
+
+Tools & Certifications
+--------------------------
+Snowflake
+dbt
+Databricks
+Airflow
+Azure
+AWS
+GCP
+Denodo
+Dremio
